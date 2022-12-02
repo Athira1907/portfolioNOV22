@@ -1,0 +1,75 @@
+h1{
+    color: darkred;
+}
+body{
+    text-align: center;
+    margin: 0;
+
+}
+#about{
+    font-family:'Sacramento', cursive;
+    font-size: 30px;
+}
+#books{
+    font-family: 'Cormorant Infant', serif;
+font-size:medium bold;
+margin-left: 0;
+text-align: left;
+}
+h4{
+    text-decoration: underline;
+}
+#works{
+    font-size: medium;
+    color: darkblue;
+    
+
+}
+h5{
+text-decoration:underline;
+
+font-style: italic;
+font-size: medium;
+color: blue;
+}
+.grd{
+    font-family: 'Cormorant Infant', serif;
+}
+#menu{
+    background-color: blue;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+.link{
+    display: inline;
+    padding-right: 20px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    font-size: 25px;
+}
+#home{
+margin-top:50px ;
+background-image: linear-gradient(to bottom left,red,blue,yellow);
+}
+html{
+    scroll-behavior: smooth;
+}
+#home img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.line{
+    background-color: black;
+    width: 70px;
+    margin:left;
+    margin-bottom:10px ;
+    height: 1px;
+}
